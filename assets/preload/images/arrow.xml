@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="arrow.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arrow loop0000" x="10" y="10" width="432" height="183"/>
+	<SubTexture name="arrow loop0001" x="10" y="10" width="432" height="183"/>
+	<SubTexture name="arrow loop0002" x="10" y="10" width="432" height="183"/>
+	<SubTexture name="arrow loop0003" x="10" y="10" width="432" height="183"/>
+	<SubTexture name="arrow loop0004" x="10" y="10" width="432" height="183"/>
+	<SubTexture name="arrow loop0005" x="10" y="10" width="432" height="183"/>
+	<SubTexture name="arrow loop0006" x="10" y="10" width="432" height="183"/>
+	<SubTexture name="arrow loop0007" x="10" y="10" width="432" height="183"/>
+	<SubTexture name="arrow loop0008" x="10" y="10" width="432" height="183"/>
+	<SubTexture name="arrow loop0009" x="10" y="10" width="432" height="183"/>
+	<SubTexture name="arrow loop0010" x="10" y="203" width="432" height="72" frameX="0" frameY="0" frameWidth="432" frameHeight="183"/>
+	<SubTexture name="arrow loop0011" x="10" y="203" width="432" height="72" frameX="0" frameY="0" frameWidth="432" frameHeight="183"/>
+	<SubTexture name="arrow loop0012" x="10" y="203" width="432" height="72" frameX="0" frameY="0" frameWidth="432" frameHeight="183"/>
+	<SubTexture name="arrow loop0013" x="10" y="203" width="432" height="72" frameX="0" frameY="0" frameWidth="432" frameHeight="183"/>
+	<SubTexture name="arrow loop0014" x="10" y="203" width="432" height="72" frameX="0" frameY="0" frameWidth="432" frameHeight="183"/>
+	<SubTexture name="arrow loop0015" x="10" y="203" width="432" height="72" frameX="0" frameY="0" frameWidth="432" frameHeight="183"/>
+	<SubTexture name="arrow loop0016" x="10" y="203" width="432" height="72" frameX="0" frameY="0" frameWidth="432" frameHeight="183"/>
+	<SubTexture name="arrow loop0017" x="10" y="203" width="432" height="72" frameX="0" frameY="0" frameWidth="432" frameHeight="183"/>
+	<SubTexture name="arrow loop0018" x="10" y="203" width="432" height="72" frameX="0" frameY="0" frameWidth="432" frameHeight="183"/>
+	<SubTexture name="arrow loop0019" x="10" y="203" width="432" height="72" frameX="0" frameY="0" frameWidth="432" frameHeight="183"/>
+</TextureAtlas>

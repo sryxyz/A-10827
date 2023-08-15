@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="KaraDriveDeath.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kara confirm0000" x="10" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0001" x="10" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0002" x="759" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0003" x="1508" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0004" x="10" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0005" x="10" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0006" x="10" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0007" x="10" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0008" x="10" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0009" x="10" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0010" x="10" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0011" x="10" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0012" x="10" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0013" x="10" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0014" x="10" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0015" x="10" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0016" x="10" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0017" x="10" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0018" x="10" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0019" x="10" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0020" x="10" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0021" x="10" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0022" x="10" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0023" x="10" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0024" x="10" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0025" x="10" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0026" x="10" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0027" x="10" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0028" x="10" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0029" x="10" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0030" x="10" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0031" x="10" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0032" x="10" y="10" width="739" height="650"/>
+	<SubTexture name="kara confirm0033" x="10" y="10" width="739" height="650"/>
+	<SubTexture name="kara dies0000" x="2257" y="10" width="740" height="543" frameX="-2" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0001" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0002" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0003" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0004" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0005" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0006" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0007" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0008" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0009" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0010" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0011" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0012" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0013" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0014" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0015" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0016" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0017" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0018" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0019" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0020" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0021" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0022" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0023" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0024" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0025" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0026" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0027" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0028" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0029" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0030" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0031" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0032" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0033" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0034" x="3007" y="10" width="739" height="543" frameX="0" frameY="-107" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0035" x="10" y="670" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0036" x="10" y="670" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0037" x="10" y="670" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0038" x="759" y="670" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0039" x="759" y="670" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0040" x="759" y="670" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0041" x="1508" y="670" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0042" x="1508" y="670" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0043" x="1508" y="670" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0044" x="2257" y="670" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0045" x="2257" y="670" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0046" x="2257" y="670" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0047" x="3006" y="670" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0048" x="3006" y="670" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0049" x="3006" y="670" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0050" x="10" y="1330" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0051" x="10" y="1330" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0052" x="10" y="1330" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0053" x="759" y="1330" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0054" x="759" y="1330" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0055" x="759" y="1330" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0056" x="1508" y="1330" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara dies0057" x="1508" y="1330" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara loop0000" x="2257" y="1330" width="739" height="650"/>
+	<SubTexture name="kara loop0001" x="3006" y="1330" width="739" height="650"/>
+	<SubTexture name="kara loop0002" x="3006" y="1330" width="739" height="650"/>
+	<SubTexture name="kara loop0003" x="10" y="1990" width="739" height="650"/>
+	<SubTexture name="kara loop0004" x="10" y="1990" width="739" height="650"/>
+	<SubTexture name="kara loop0005" x="759" y="1990" width="739" height="650"/>
+	<SubTexture name="kara loop0006" x="759" y="1990" width="739" height="650"/>
+	<SubTexture name="kara loop0007" x="1508" y="1330" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara loop0008" x="1508" y="1330" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara loop0009" x="1508" y="1330" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara loop0010" x="1508" y="1330" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara loop0011" x="1508" y="1330" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara loop0012" x="1508" y="1330" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara loop0013" x="1508" y="1330" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara loop0014" x="1508" y="1330" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara loop0015" x="1508" y="1330" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara loop0016" x="1508" y="1330" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara loop0017" x="2257" y="1330" width="739" height="650"/>
+	<SubTexture name="kara loop0018" x="3006" y="1330" width="739" height="650"/>
+	<SubTexture name="kara loop0019" x="3006" y="1330" width="739" height="650"/>
+	<SubTexture name="kara loop0020" x="10" y="1990" width="739" height="650"/>
+	<SubTexture name="kara loop0021" x="10" y="1990" width="739" height="650"/>
+	<SubTexture name="kara loop0022" x="759" y="1990" width="739" height="650"/>
+	<SubTexture name="kara loop0023" x="759" y="1990" width="739" height="650"/>
+	<SubTexture name="kara loop0024" x="1508" y="1330" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara loop0025" x="1508" y="1330" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara loop0026" x="1508" y="1330" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara loop0027" x="1508" y="1330" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara loop0028" x="1508" y="1330" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara loop0029" x="1508" y="1330" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara loop0030" x="1508" y="1330" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara loop0031" x="1508" y="1330" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara loop0032" x="1508" y="1330" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+	<SubTexture name="kara loop0033" x="1508" y="1330" width="739" height="650" frameX="0" frameY="0" frameWidth="742" frameHeight="650"/>
+</TextureAtlas>

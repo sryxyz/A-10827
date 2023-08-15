@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "dimon",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Look, I don't want to be disturbed. So please go..."
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "bfkid",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Bep bo be ba skeba"
+		},
+		{
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "dimon",
+			"boxState": "normal",
+			"expression": "cry",
+			"text": "Just go, please... Please... I don't want this..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfkid",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "boo ske bo be"
+		},
+		{
+			"sound": "",
+			"speed": 0.3,
+			"portrait": "dimon",
+			"boxState": "normal",
+			"expression": "cryangry",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.08,
+			"portrait": "dimon",
+			"boxState": "normal",
+			"expression": "cryangry",
+			"text": "Okay, but you'll regret it..."
+		}
+	]
+}

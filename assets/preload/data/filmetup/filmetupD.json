@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "kara",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Eh..."
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "bfkid",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Beep boop!"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "kara",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": "Alright, supposably."
+		}
+	]
+}

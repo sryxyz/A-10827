@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="A.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="A0000" x="10" y="10" width="100" height="141" frameX="-11" frameY="0" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0001" x="120" y="10" width="107" height="116" frameX="-7" frameY="-24" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0002" x="237" y="10" width="122" height="108" frameX="0" frameY="-33" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0003" x="369" y="10" width="122" height="109" frameX="0" frameY="-32" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0004" x="501" y="10" width="122" height="110" frameX="0" frameY="-31" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0005" x="633" y="10" width="120" height="111" frameX="-1" frameY="-30" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0006" x="763" y="10" width="120" height="112" frameX="-1" frameY="-29" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0007" x="893" y="10" width="120" height="113" frameX="-1" frameY="-28" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0008" x="10" y="161" width="118" height="114" frameX="-2" frameY="-27" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0009" x="138" y="161" width="118" height="115" frameX="-2" frameY="-26" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0010" x="266" y="161" width="118" height="116" frameX="-2" frameY="-25" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0011" x="394" y="161" width="116" height="117" frameX="-3" frameY="-24" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0012" x="520" y="161" width="116" height="118" frameX="-3" frameY="-23" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0013" x="646" y="161" width="115" height="119" frameX="-3" frameY="-22" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0014" x="771" y="161" width="114" height="121" frameX="-4" frameY="-20" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0015" x="895" y="161" width="114" height="122" frameX="-4" frameY="-19" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0016" x="10" y="293" width="112" height="123" frameX="-5" frameY="-18" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0017" x="132" y="293" width="112" height="124" frameX="-5" frameY="-17" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0018" x="254" y="293" width="112" height="125" frameX="-5" frameY="-16" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0019" x="376" y="293" width="110" height="126" frameX="-6" frameY="-15" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0020" x="496" y="293" width="110" height="127" frameX="-6" frameY="-14" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0021" x="616" y="293" width="108" height="128" frameX="-7" frameY="-13" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0022" x="734" y="293" width="108" height="129" frameX="-7" frameY="-12" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0023" x="852" y="293" width="108" height="131" frameX="-7" frameY="-10" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0024" x="10" y="434" width="106" height="132" frameX="-8" frameY="-9" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0025" x="126" y="434" width="106" height="133" frameX="-8" frameY="-8" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0026" x="242" y="434" width="105" height="134" frameX="-8" frameY="-7" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0027" x="357" y="434" width="104" height="135" frameX="-9" frameY="-6" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0028" x="471" y="434" width="104" height="135" frameX="-9" frameY="-5" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0029" x="585" y="434" width="102" height="137" frameX="-10" frameY="-4" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0030" x="697" y="434" width="102" height="137" frameX="-10" frameY="-3" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0031" x="809" y="434" width="101" height="138" frameX="-10" frameY="-2" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0032" x="10" y="582" width="100" height="140" frameX="-11" frameY="-1" frameWidth="122" frameHeight="141"/>
+	<SubTexture name="A0033" x="10" y="10" width="100" height="141" frameX="-11" frameY="0" frameWidth="122" frameHeight="141"/>
+</TextureAtlas>

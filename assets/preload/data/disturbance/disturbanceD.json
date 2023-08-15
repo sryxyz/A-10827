@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "angry",
+			"text": "Listen! It is not right! Why are you just barging in on me! I feel bad without you!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "dimon"
+		},
+		{
+			"expression": "confused",
+			"text": "Brep bo pa...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "bfkid"
+		},
+		{
+			"expression": "what",
+			"text": "What? Are you saying it's my fault that you came here?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dimon"
+		},
+		{
+			"expression": "confused",
+			"text": "Bap!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "bfkid"
+		},
+		{
+			"expression": "angry",
+			"text": "NO! Don't you dare throw this responsibility on me!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.045,
+			"portrait": "dimon"
+		},
+		{
+			"expression": "sad",
+			"text": "I do everything right...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dimon"
+		},
+		{
+			"expression": "cry",
+			"text": "I can't do this... seriously? I try so hard...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "dimon"
+		}
+	]
+}

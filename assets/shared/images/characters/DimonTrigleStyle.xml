@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DimonTrigleStyle.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TrigleDown0000" x="10" y="10" width="520" height="559" frameX="-6" frameY="-11" frameWidth="526" frameHeight="571"/>
+	<SubTexture name="TrigleDown0001" x="10" y="10" width="520" height="559" frameX="-6" frameY="-11" frameWidth="526" frameHeight="571"/>
+	<SubTexture name="TrigleDown0002" x="540" y="10" width="515" height="558" frameX="0" frameY="-13" frameWidth="526" frameHeight="571"/>
+	<SubTexture name="TrigleDown0003" x="540" y="10" width="515" height="558" frameX="0" frameY="-13" frameWidth="526" frameHeight="571"/>
+	<SubTexture name="TrigleDown0004" x="1065" y="10" width="495" height="571" frameX="0" frameY="0" frameWidth="526" frameHeight="571"/>
+	<SubTexture name="TrigleDown0005" x="1065" y="10" width="495" height="571" frameX="0" frameY="0" frameWidth="526" frameHeight="571"/>
+	<SubTexture name="TrigleDown0006" x="1065" y="10" width="495" height="571" frameX="0" frameY="0" frameWidth="526" frameHeight="571"/>
+	<SubTexture name="TrigleDown0007" x="1065" y="10" width="495" height="571" frameX="0" frameY="0" frameWidth="526" frameHeight="571"/>
+	<SubTexture name="TrigleDown0008" x="1065" y="10" width="495" height="571" frameX="0" frameY="0" frameWidth="526" frameHeight="571"/>
+	<SubTexture name="TrigleDown0009" x="1065" y="10" width="495" height="571" frameX="0" frameY="0" frameWidth="526" frameHeight="571"/>
+	<SubTexture name="TrigleDown0010" x="1065" y="10" width="495" height="571" frameX="0" frameY="0" frameWidth="526" frameHeight="571"/>
+	<SubTexture name="TrigleDown0011" x="1065" y="10" width="495" height="571" frameX="0" frameY="0" frameWidth="526" frameHeight="571"/>
+	<SubTexture name="TrigleDown0012" x="1065" y="10" width="495" height="571" frameX="0" frameY="0" frameWidth="526" frameHeight="571"/>
+	<SubTexture name="TrigleDown0013" x="1065" y="10" width="495" height="571" frameX="0" frameY="0" frameWidth="526" frameHeight="571"/>
+	<SubTexture name="TrigleDown0014" x="1065" y="10" width="495" height="571" frameX="0" frameY="0" frameWidth="526" frameHeight="571"/>
+	<SubTexture name="TrigleIdle0000" x="1570" y="10" width="469" height="577" frameX="-7" frameY="-1" frameWidth="476" frameHeight="590"/>
+	<SubTexture name="TrigleIdle0001" x="1570" y="10" width="469" height="577" frameX="-7" frameY="-1" frameWidth="476" frameHeight="590"/>
+	<SubTexture name="TrigleIdle0002" x="2049" y="10" width="467" height="578" frameX="-5" frameY="0" frameWidth="476" frameHeight="590"/>
+	<SubTexture name="TrigleIdle0003" x="2049" y="10" width="467" height="578" frameX="-5" frameY="0" frameWidth="476" frameHeight="590"/>
+	<SubTexture name="TrigleIdle0004" x="2526" y="10" width="460" height="566" frameX="0" frameY="-13" frameWidth="476" frameHeight="590"/>
+	<SubTexture name="TrigleIdle0005" x="2526" y="10" width="460" height="566" frameX="0" frameY="-13" frameWidth="476" frameHeight="590"/>
+	<SubTexture name="TrigleIdle0006" x="2996" y="10" width="456" height="588" frameX="-1" frameY="-2" frameWidth="476" frameHeight="590"/>
+	<SubTexture name="TrigleIdle0007" x="2996" y="10" width="456" height="588" frameX="-1" frameY="-2" frameWidth="476" frameHeight="590"/>
+	<SubTexture name="TrigleIdle0008" x="3462" y="10" width="453" height="589" frameX="-1" frameY="-1" frameWidth="476" frameHeight="590"/>
+	<SubTexture name="TrigleIdle0009" x="3462" y="10" width="453" height="589" frameX="-1" frameY="-1" frameWidth="476" frameHeight="590"/>
+	<SubTexture name="TrigleIdle0010" x="3462" y="10" width="453" height="589" frameX="-1" frameY="-1" frameWidth="476" frameHeight="590"/>
+	<SubTexture name="TrigleIdle0011" x="3462" y="10" width="453" height="589" frameX="-1" frameY="-1" frameWidth="476" frameHeight="590"/>
+	<SubTexture name="TrigleIdle0012" x="3462" y="10" width="453" height="589" frameX="-1" frameY="-1" frameWidth="476" frameHeight="590"/>
+	<SubTexture name="TrigleIdle0013" x="3462" y="10" width="453" height="589" frameX="-1" frameY="-1" frameWidth="476" frameHeight="590"/>
+	<SubTexture name="TrigleIdle0014" x="3462" y="10" width="453" height="589" frameX="-1" frameY="-1" frameWidth="476" frameHeight="590"/>
+	<SubTexture name="TrigleLeft0000" x="10" y="609" width="425" height="574" frameX="-1" frameY="-3" frameWidth="450" frameHeight="577"/>
+	<SubTexture name="TrigleLeft0001" x="10" y="609" width="425" height="574" frameX="-1" frameY="-3" frameWidth="450" frameHeight="577"/>
+	<SubTexture name="TrigleLeft0002" x="445" y="609" width="439" height="577" frameX="0" frameY="0" frameWidth="450" frameHeight="577"/>
+	<SubTexture name="TrigleLeft0003" x="445" y="609" width="439" height="577" frameX="0" frameY="0" frameWidth="450" frameHeight="577"/>
+	<SubTexture name="TrigleLeft0004" x="894" y="609" width="449" height="577" frameX="-1" frameY="0" frameWidth="450" frameHeight="577"/>
+	<SubTexture name="TrigleLeft0005" x="894" y="609" width="449" height="577" frameX="-1" frameY="0" frameWidth="450" frameHeight="577"/>
+	<SubTexture name="TrigleLeft0006" x="894" y="609" width="449" height="577" frameX="-1" frameY="0" frameWidth="450" frameHeight="577"/>
+	<SubTexture name="TrigleLeft0007" x="894" y="609" width="449" height="577" frameX="-1" frameY="0" frameWidth="450" frameHeight="577"/>
+	<SubTexture name="TrigleLeft0008" x="894" y="609" width="449" height="577" frameX="-1" frameY="0" frameWidth="450" frameHeight="577"/>
+	<SubTexture name="TrigleLeft0009" x="894" y="609" width="449" height="577" frameX="-1" frameY="0" frameWidth="450" frameHeight="577"/>
+	<SubTexture name="TrigleLeft0010" x="894" y="609" width="449" height="577" frameX="-1" frameY="0" frameWidth="450" frameHeight="577"/>
+	<SubTexture name="TrigleLeft0011" x="894" y="609" width="449" height="577" frameX="-1" frameY="0" frameWidth="450" frameHeight="577"/>
+	<SubTexture name="TrigleLeft0012" x="894" y="609" width="449" height="577" frameX="-1" frameY="0" frameWidth="450" frameHeight="577"/>
+	<SubTexture name="TrigleLeft0013" x="894" y="609" width="449" height="577" frameX="-1" frameY="0" frameWidth="450" frameHeight="577"/>
+	<SubTexture name="TrigleLeft0014" x="894" y="609" width="449" height="577" frameX="-1" frameY="0" frameWidth="450" frameHeight="577"/>
+	<SubTexture name="TrigleRight0000" x="1353" y="609" width="483" height="584" frameX="-6" frameY="-6" frameWidth="489" frameHeight="590"/>
+	<SubTexture name="TrigleRight0001" x="1353" y="609" width="483" height="584" frameX="-6" frameY="-6" frameWidth="489" frameHeight="590"/>
+	<SubTexture name="TrigleRight0002" x="1846" y="609" width="479" height="584" frameX="-10" frameY="-6" frameWidth="489" frameHeight="590"/>
+	<SubTexture name="TrigleRight0003" x="1846" y="609" width="479" height="584" frameX="-10" frameY="-6" frameWidth="489" frameHeight="590"/>
+	<SubTexture name="TrigleRight0004" x="2335" y="609" width="478" height="590" frameX="0" frameY="0" frameWidth="489" frameHeight="590"/>
+	<SubTexture name="TrigleRight0005" x="2335" y="609" width="478" height="590" frameX="0" frameY="0" frameWidth="489" frameHeight="590"/>
+	<SubTexture name="TrigleRight0006" x="2335" y="609" width="478" height="590" frameX="0" frameY="0" frameWidth="489" frameHeight="590"/>
+	<SubTexture name="TrigleRight0007" x="2335" y="609" width="478" height="590" frameX="0" frameY="0" frameWidth="489" frameHeight="590"/>
+	<SubTexture name="TrigleRight0008" x="2335" y="609" width="478" height="590" frameX="0" frameY="0" frameWidth="489" frameHeight="590"/>
+	<SubTexture name="TrigleRight0009" x="2335" y="609" width="478" height="590" frameX="0" frameY="0" frameWidth="489" frameHeight="590"/>
+	<SubTexture name="TrigleRight0010" x="2335" y="609" width="478" height="590" frameX="0" frameY="0" frameWidth="489" frameHeight="590"/>
+	<SubTexture name="TrigleRight0011" x="2335" y="609" width="478" height="590" frameX="0" frameY="0" frameWidth="489" frameHeight="590"/>
+	<SubTexture name="TrigleRight0012" x="2335" y="609" width="478" height="590" frameX="0" frameY="0" frameWidth="489" frameHeight="590"/>
+	<SubTexture name="TrigleRight0013" x="2335" y="609" width="478" height="590" frameX="0" frameY="0" frameWidth="489" frameHeight="590"/>
+	<SubTexture name="TrigleRight0014" x="2335" y="609" width="478" height="590" frameX="0" frameY="0" frameWidth="489" frameHeight="590"/>
+	<SubTexture name="TrigleUp0000" x="2823" y="609" width="415" height="594" frameX="-10" frameY="-4" frameWidth="432" frameHeight="598"/>
+	<SubTexture name="TrigleUp0001" x="2823" y="609" width="415" height="594" frameX="-10" frameY="-4" frameWidth="432" frameHeight="598"/>
+	<SubTexture name="TrigleUp0002" x="3248" y="609" width="432" height="598"/>
+	<SubTexture name="TrigleUp0003" x="3248" y="609" width="432" height="598"/>
+	<SubTexture name="TrigleUp0004" x="10" y="1217" width="429" height="593" frameX="-3" frameY="-5" frameWidth="432" frameHeight="598"/>
+	<SubTexture name="TrigleUp0005" x="10" y="1217" width="429" height="593" frameX="-3" frameY="-5" frameWidth="432" frameHeight="598"/>
+	<SubTexture name="TrigleUp0006" x="10" y="1217" width="429" height="593" frameX="-3" frameY="-5" frameWidth="432" frameHeight="598"/>
+	<SubTexture name="TrigleUp0007" x="10" y="1217" width="429" height="593" frameX="-3" frameY="-5" frameWidth="432" frameHeight="598"/>
+	<SubTexture name="TrigleUp0008" x="10" y="1217" width="429" height="593" frameX="-3" frameY="-5" frameWidth="432" frameHeight="598"/>
+	<SubTexture name="TrigleUp0009" x="10" y="1217" width="429" height="593" frameX="-3" frameY="-5" frameWidth="432" frameHeight="598"/>
+	<SubTexture name="TrigleUp0010" x="10" y="1217" width="429" height="593" frameX="-3" frameY="-5" frameWidth="432" frameHeight="598"/>
+	<SubTexture name="TrigleUp0011" x="10" y="1217" width="429" height="593" frameX="-3" frameY="-5" frameWidth="432" frameHeight="598"/>
+	<SubTexture name="TrigleUp0012" x="10" y="1217" width="429" height="593" frameX="-3" frameY="-5" frameWidth="432" frameHeight="598"/>
+	<SubTexture name="TrigleUp0013" x="10" y="1217" width="429" height="593" frameX="-3" frameY="-5" frameWidth="432" frameHeight="598"/>
+	<SubTexture name="TrigleUp0014" x="10" y="1217" width="429" height="593" frameX="-3" frameY="-5" frameWidth="432" frameHeight="598"/>
+</TextureAtlas>

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-183
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "DimonEledIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				196,
+				-208
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "DimonEledLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				-429
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DimonEledDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-155
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "DimonEledUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-201
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "DimonEledRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				184,
+				-130
+			],
+			"anim": "scream",
+			"fps": 24,
+			"name": "DimonEledSCREAM",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DimonEteled",
+	"position": [
+		0,
+		-110
+	],
+	"healthicon": "icon-dimoneled",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		106,
+		111
+	],
+	"camera_position": [
+		140,
+		345
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

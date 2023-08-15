@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dimo.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DimoDown0000" x="10" y="10" width="312" height="481" frameX="0" frameY="-2" frameWidth="312" frameHeight="483"/>
+	<SubTexture name="DimoDown0001" x="10" y="10" width="312" height="481" frameX="0" frameY="-2" frameWidth="312" frameHeight="483"/>
+	<SubTexture name="DimoDown0002" x="332" y="10" width="307" height="483" frameX="-2" frameY="0" frameWidth="312" frameHeight="483"/>
+	<SubTexture name="DimoDown0003" x="332" y="10" width="307" height="483" frameX="-2" frameY="0" frameWidth="312" frameHeight="483"/>
+	<SubTexture name="DimoDown0004" x="332" y="10" width="307" height="483" frameX="-2" frameY="0" frameWidth="312" frameHeight="483"/>
+	<SubTexture name="DimoDown0005" x="332" y="10" width="307" height="483" frameX="-2" frameY="0" frameWidth="312" frameHeight="483"/>
+	<SubTexture name="DimoDown0006" x="332" y="10" width="307" height="483" frameX="-2" frameY="0" frameWidth="312" frameHeight="483"/>
+	<SubTexture name="DimoDown0007" x="332" y="10" width="307" height="483" frameX="-2" frameY="0" frameWidth="312" frameHeight="483"/>
+	<SubTexture name="DimoDown0008" x="332" y="10" width="307" height="483" frameX="-2" frameY="0" frameWidth="312" frameHeight="483"/>
+	<SubTexture name="DimoDown0009" x="332" y="10" width="307" height="483" frameX="-2" frameY="0" frameWidth="312" frameHeight="483"/>
+	<SubTexture name="DimoDown0010" x="332" y="10" width="307" height="483" frameX="-2" frameY="0" frameWidth="312" frameHeight="483"/>
+	<SubTexture name="DimoDown0011" x="332" y="10" width="307" height="483" frameX="-2" frameY="0" frameWidth="312" frameHeight="483"/>
+	<SubTexture name="DimoDown0012" x="332" y="10" width="307" height="483" frameX="-2" frameY="0" frameWidth="312" frameHeight="483"/>
+	<SubTexture name="DimoDown0013" x="332" y="10" width="307" height="483" frameX="-2" frameY="0" frameWidth="312" frameHeight="483"/>
+	<SubTexture name="DimoDown0014" x="332" y="10" width="307" height="483" frameX="-2" frameY="0" frameWidth="312" frameHeight="483"/>
+	<SubTexture name="DimoIdle0000" x="649" y="10" width="307" height="494"/>
+	<SubTexture name="DimoIdle0001" x="649" y="10" width="307" height="494"/>
+	<SubTexture name="DimoIdle0002" x="966" y="10" width="307" height="494"/>
+	<SubTexture name="DimoIdle0003" x="966" y="10" width="307" height="494"/>
+	<SubTexture name="DimoLeft0000" x="1283" y="10" width="295" height="494" frameX="0" frameY="0" frameWidth="301" frameHeight="494"/>
+	<SubTexture name="DimoLeft0001" x="1283" y="10" width="295" height="494" frameX="0" frameY="0" frameWidth="301" frameHeight="494"/>
+	<SubTexture name="DimoLeft0002" x="1588" y="10" width="301" height="494"/>
+	<SubTexture name="DimoLeft0003" x="1588" y="10" width="301" height="494"/>
+	<SubTexture name="DimoLeft0004" x="1588" y="10" width="301" height="494"/>
+	<SubTexture name="DimoLeft0005" x="1588" y="10" width="301" height="494"/>
+	<SubTexture name="DimoLeft0006" x="1588" y="10" width="301" height="494"/>
+	<SubTexture name="DimoLeft0007" x="1588" y="10" width="301" height="494"/>
+	<SubTexture name="DimoLeft0008" x="1588" y="10" width="301" height="494"/>
+	<SubTexture name="DimoLeft0009" x="1588" y="10" width="301" height="494"/>
+	<SubTexture name="DimoLeft0010" x="1588" y="10" width="301" height="494"/>
+	<SubTexture name="DimoLeft0011" x="1588" y="10" width="301" height="494"/>
+	<SubTexture name="DimoLeft0012" x="1588" y="10" width="301" height="494"/>
+	<SubTexture name="DimoLeft0013" x="1588" y="10" width="301" height="494"/>
+	<SubTexture name="DimoLeft0014" x="1588" y="10" width="301" height="494"/>
+	<SubTexture name="DimoRight0000" x="10" y="514" width="322" height="494"/>
+	<SubTexture name="DimoRight0001" x="10" y="514" width="322" height="494"/>
+	<SubTexture name="DimoRight0002" x="342" y="514" width="314" height="494" frameX="0" frameY="0" frameWidth="322" frameHeight="494"/>
+	<SubTexture name="DimoRight0003" x="342" y="514" width="314" height="494" frameX="0" frameY="0" frameWidth="322" frameHeight="494"/>
+	<SubTexture name="DimoRight0004" x="342" y="514" width="314" height="494" frameX="0" frameY="0" frameWidth="322" frameHeight="494"/>
+	<SubTexture name="DimoRight0005" x="342" y="514" width="314" height="494" frameX="0" frameY="0" frameWidth="322" frameHeight="494"/>
+	<SubTexture name="DimoRight0006" x="342" y="514" width="314" height="494" frameX="0" frameY="0" frameWidth="322" frameHeight="494"/>
+	<SubTexture name="DimoRight0007" x="342" y="514" width="314" height="494" frameX="0" frameY="0" frameWidth="322" frameHeight="494"/>
+	<SubTexture name="DimoRight0008" x="342" y="514" width="314" height="494" frameX="0" frameY="0" frameWidth="322" frameHeight="494"/>
+	<SubTexture name="DimoRight0009" x="342" y="514" width="314" height="494" frameX="0" frameY="0" frameWidth="322" frameHeight="494"/>
+	<SubTexture name="DimoRight0010" x="342" y="514" width="314" height="494" frameX="0" frameY="0" frameWidth="322" frameHeight="494"/>
+	<SubTexture name="DimoRight0011" x="342" y="514" width="314" height="494" frameX="0" frameY="0" frameWidth="322" frameHeight="494"/>
+	<SubTexture name="DimoRight0012" x="342" y="514" width="314" height="494" frameX="0" frameY="0" frameWidth="322" frameHeight="494"/>
+	<SubTexture name="DimoRight0013" x="342" y="514" width="314" height="494" frameX="0" frameY="0" frameWidth="322" frameHeight="494"/>
+	<SubTexture name="DimoRight0014" x="342" y="514" width="314" height="494" frameX="0" frameY="0" frameWidth="322" frameHeight="494"/>
+	<SubTexture name="DimoUp0000" x="666" y="514" width="301" height="502" frameX="-1" frameY="0" frameWidth="307" frameHeight="502"/>
+	<SubTexture name="DimoUp0001" x="666" y="514" width="301" height="502" frameX="-1" frameY="0" frameWidth="307" frameHeight="502"/>
+	<SubTexture name="DimoUp0002" x="977" y="514" width="307" height="500" frameX="0" frameY="-2" frameWidth="307" frameHeight="502"/>
+	<SubTexture name="DimoUp0003" x="977" y="514" width="307" height="500" frameX="0" frameY="-2" frameWidth="307" frameHeight="502"/>
+	<SubTexture name="DimoUp0004" x="977" y="514" width="307" height="500" frameX="0" frameY="-2" frameWidth="307" frameHeight="502"/>
+	<SubTexture name="DimoUp0005" x="977" y="514" width="307" height="500" frameX="0" frameY="-2" frameWidth="307" frameHeight="502"/>
+	<SubTexture name="DimoUp0006" x="977" y="514" width="307" height="500" frameX="0" frameY="-2" frameWidth="307" frameHeight="502"/>
+	<SubTexture name="DimoUp0007" x="977" y="514" width="307" height="500" frameX="0" frameY="-2" frameWidth="307" frameHeight="502"/>
+	<SubTexture name="DimoUp0008" x="977" y="514" width="307" height="500" frameX="0" frameY="-2" frameWidth="307" frameHeight="502"/>
+	<SubTexture name="DimoUp0009" x="977" y="514" width="307" height="500" frameX="0" frameY="-2" frameWidth="307" frameHeight="502"/>
+	<SubTexture name="DimoUp0010" x="977" y="514" width="307" height="500" frameX="0" frameY="-2" frameWidth="307" frameHeight="502"/>
+	<SubTexture name="DimoUp0011" x="977" y="514" width="307" height="500" frameX="0" frameY="-2" frameWidth="307" frameHeight="502"/>
+	<SubTexture name="DimoUp0012" x="977" y="514" width="307" height="500" frameX="0" frameY="-2" frameWidth="307" frameHeight="502"/>
+	<SubTexture name="DimoUp0013" x="977" y="514" width="307" height="500" frameX="0" frameY="-2" frameWidth="307" frameHeight="502"/>
+	<SubTexture name="DimoUp0014" x="977" y="514" width="307" height="500" frameX="0" frameY="-2" frameWidth="307" frameHeight="502"/>
+</TextureAtlas>

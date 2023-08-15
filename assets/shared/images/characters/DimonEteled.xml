@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DimonEteled.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DimonEledDown0000" x="10" y="10" width="610" height="438" frameX="0" frameY="0" frameWidth="627" frameHeight="438"/>
+	<SubTexture name="DimonEledDown0001" x="10" y="10" width="610" height="438" frameX="0" frameY="0" frameWidth="627" frameHeight="438"/>
+	<SubTexture name="DimonEledDown0002" x="630" y="10" width="627" height="430" frameX="0" frameY="-8" frameWidth="627" frameHeight="438"/>
+	<SubTexture name="DimonEledDown0003" x="630" y="10" width="627" height="430" frameX="0" frameY="-8" frameWidth="627" frameHeight="438"/>
+	<SubTexture name="DimonEledDown0004" x="630" y="10" width="627" height="430" frameX="0" frameY="-8" frameWidth="627" frameHeight="438"/>
+	<SubTexture name="DimonEledDown0005" x="630" y="10" width="627" height="430" frameX="0" frameY="-8" frameWidth="627" frameHeight="438"/>
+	<SubTexture name="DimonEledDown0006" x="630" y="10" width="627" height="430" frameX="0" frameY="-8" frameWidth="627" frameHeight="438"/>
+	<SubTexture name="DimonEledDown0007" x="630" y="10" width="627" height="430" frameX="0" frameY="-8" frameWidth="627" frameHeight="438"/>
+	<SubTexture name="DimonEledDown0008" x="630" y="10" width="627" height="430" frameX="0" frameY="-8" frameWidth="627" frameHeight="438"/>
+	<SubTexture name="DimonEledDown0009" x="630" y="10" width="627" height="430" frameX="0" frameY="-8" frameWidth="627" frameHeight="438"/>
+	<SubTexture name="DimonEledDown0010" x="630" y="10" width="627" height="430" frameX="0" frameY="-8" frameWidth="627" frameHeight="438"/>
+	<SubTexture name="DimonEledDown0011" x="630" y="10" width="627" height="430" frameX="0" frameY="-8" frameWidth="627" frameHeight="438"/>
+	<SubTexture name="DimonEledDown0012" x="630" y="10" width="627" height="430" frameX="0" frameY="-8" frameWidth="627" frameHeight="438"/>
+	<SubTexture name="DimonEledDown0013" x="630" y="10" width="627" height="430" frameX="0" frameY="-8" frameWidth="627" frameHeight="438"/>
+	<SubTexture name="DimonEledDown0014" x="630" y="10" width="627" height="430" frameX="0" frameY="-8" frameWidth="627" frameHeight="438"/>
+	<SubTexture name="DimonEledDown0015" x="630" y="10" width="627" height="430" frameX="0" frameY="-8" frameWidth="627" frameHeight="438"/>
+	<SubTexture name="DimonEledIdle0000" x="1267" y="10" width="682" height="684" frameX="-3" frameY="0" frameWidth="703" frameHeight="684"/>
+	<SubTexture name="DimonEledIdle0001" x="1959" y="10" width="694" height="662" frameX="-1" frameY="-22" frameWidth="703" frameHeight="684"/>
+	<SubTexture name="DimonEledIdle0002" x="2663" y="10" width="703" height="640" frameX="0" frameY="-44" frameWidth="703" frameHeight="684"/>
+	<SubTexture name="DimonEledIdle0003" x="2663" y="10" width="703" height="640" frameX="0" frameY="-44" frameWidth="703" frameHeight="684"/>
+	<SubTexture name="DimonEledIdle0004" x="3376" y="10" width="703" height="640" frameX="0" frameY="-44" frameWidth="703" frameHeight="684"/>
+	<SubTexture name="DimonEledIdle0005" x="10" y="704" width="702" height="642" frameX="0" frameY="-42" frameWidth="703" frameHeight="684"/>
+	<SubTexture name="DimonEledIdle0006" x="722" y="704" width="701" height="647" frameX="0" frameY="-37" frameWidth="703" frameHeight="684"/>
+	<SubTexture name="DimonEledIdle0007" x="1433" y="704" width="697" height="656" frameX="0" frameY="-28" frameWidth="703" frameHeight="684"/>
+	<SubTexture name="DimonEledIdle0008" x="2140" y="704" width="691" height="669" frameX="-1" frameY="-15" frameWidth="703" frameHeight="684"/>
+	<SubTexture name="DimonEledIdle0009" x="2841" y="704" width="686" height="677" frameX="-2" frameY="-6" frameWidth="703" frameHeight="684"/>
+	<SubTexture name="DimonEledIdle0010" x="10" y="1391" width="683" height="682" frameX="-3" frameY="-1" frameWidth="703" frameHeight="684"/>
+	<SubTexture name="DimonEledIdle0011" x="703" y="1391" width="682" height="683" frameX="-3" frameY="0" frameWidth="703" frameHeight="684"/>
+	<SubTexture name="DimonEledIdle0012" x="1267" y="10" width="682" height="684" frameX="-3" frameY="0" frameWidth="703" frameHeight="684"/>
+	<SubTexture name="DimonEledLeft0000" x="1395" y="1391" width="504" height="654" frameX="-7" frameY="-5" frameWidth="511" frameHeight="659"/>
+	<SubTexture name="DimonEledLeft0001" x="1395" y="1391" width="504" height="654" frameX="-7" frameY="-5" frameWidth="511" frameHeight="659"/>
+	<SubTexture name="DimonEledLeft0002" x="1909" y="1391" width="510" height="659" frameX="0" frameY="0" frameWidth="511" frameHeight="659"/>
+	<SubTexture name="DimonEledLeft0003" x="1909" y="1391" width="510" height="659" frameX="0" frameY="0" frameWidth="511" frameHeight="659"/>
+	<SubTexture name="DimonEledLeft0004" x="1909" y="1391" width="510" height="659" frameX="0" frameY="0" frameWidth="511" frameHeight="659"/>
+	<SubTexture name="DimonEledLeft0005" x="1909" y="1391" width="510" height="659" frameX="0" frameY="0" frameWidth="511" frameHeight="659"/>
+	<SubTexture name="DimonEledLeft0006" x="1909" y="1391" width="510" height="659" frameX="0" frameY="0" frameWidth="511" frameHeight="659"/>
+	<SubTexture name="DimonEledLeft0007" x="1909" y="1391" width="510" height="659" frameX="0" frameY="0" frameWidth="511" frameHeight="659"/>
+	<SubTexture name="DimonEledLeft0008" x="1909" y="1391" width="510" height="659" frameX="0" frameY="0" frameWidth="511" frameHeight="659"/>
+	<SubTexture name="DimonEledLeft0009" x="1909" y="1391" width="510" height="659" frameX="0" frameY="0" frameWidth="511" frameHeight="659"/>
+	<SubTexture name="DimonEledLeft0010" x="1909" y="1391" width="510" height="659" frameX="0" frameY="0" frameWidth="511" frameHeight="659"/>
+	<SubTexture name="DimonEledLeft0011" x="1909" y="1391" width="510" height="659" frameX="0" frameY="0" frameWidth="511" frameHeight="659"/>
+	<SubTexture name="DimonEledLeft0012" x="1909" y="1391" width="510" height="659" frameX="0" frameY="0" frameWidth="511" frameHeight="659"/>
+	<SubTexture name="DimonEledLeft0013" x="1909" y="1391" width="510" height="659" frameX="0" frameY="0" frameWidth="511" frameHeight="659"/>
+	<SubTexture name="DimonEledLeft0014" x="1909" y="1391" width="510" height="659" frameX="0" frameY="0" frameWidth="511" frameHeight="659"/>
+	<SubTexture name="DimonEledRight0000" x="2429" y="1391" width="501" height="661" frameX="0" frameY="-5" frameWidth="502" frameHeight="666"/>
+	<SubTexture name="DimonEledRight0001" x="2429" y="1391" width="501" height="661" frameX="0" frameY="-5" frameWidth="502" frameHeight="666"/>
+	<SubTexture name="DimonEledRight0002" x="2940" y="1391" width="502" height="666"/>
+	<SubTexture name="DimonEledRight0003" x="2940" y="1391" width="502" height="666"/>
+	<SubTexture name="DimonEledRight0004" x="2940" y="1391" width="502" height="666"/>
+	<SubTexture name="DimonEledRight0005" x="2940" y="1391" width="502" height="666"/>
+	<SubTexture name="DimonEledRight0006" x="2940" y="1391" width="502" height="666"/>
+	<SubTexture name="DimonEledRight0007" x="2940" y="1391" width="502" height="666"/>
+	<SubTexture name="DimonEledRight0008" x="2940" y="1391" width="502" height="666"/>
+	<SubTexture name="DimonEledRight0009" x="2940" y="1391" width="502" height="666"/>
+	<SubTexture name="DimonEledRight0010" x="2940" y="1391" width="502" height="666"/>
+	<SubTexture name="DimonEledRight0011" x="2940" y="1391" width="502" height="666"/>
+	<SubTexture name="DimonEledRight0012" x="2940" y="1391" width="502" height="666"/>
+	<SubTexture name="DimonEledRight0013" x="2940" y="1391" width="502" height="666"/>
+	<SubTexture name="DimonEledRight0014" x="2940" y="1391" width="502" height="666"/>
+	<SubTexture name="DimonEledSCREAM0000" x="3452" y="1391" width="510" height="738" frameX="-5" frameY="0" frameWidth="529" frameHeight="738"/>
+	<SubTexture name="DimonEledSCREAM0001" x="10" y="2139" width="514" height="721" frameX="-7" frameY="-17" frameWidth="529" frameHeight="738"/>
+	<SubTexture name="DimonEledSCREAM0002" x="534" y="2139" width="510" height="728" frameX="0" frameY="-10" frameWidth="529" frameHeight="738"/>
+	<SubTexture name="DimonEledSCREAM0003" x="1054" y="2139" width="515" height="731" frameX="-14" frameY="-7" frameWidth="529" frameHeight="738"/>
+	<SubTexture name="DimonEledSCREAM0004" x="3452" y="1391" width="510" height="738" frameX="-5" frameY="0" frameWidth="529" frameHeight="738"/>
+	<SubTexture name="DimonEledSCREAM0005" x="10" y="2139" width="514" height="721" frameX="-7" frameY="-17" frameWidth="529" frameHeight="738"/>
+	<SubTexture name="DimonEledSCREAM0006" x="534" y="2139" width="510" height="728" frameX="0" frameY="-10" frameWidth="529" frameHeight="738"/>
+	<SubTexture name="DimonEledSCREAM0007" x="1054" y="2139" width="515" height="731" frameX="-14" frameY="-7" frameWidth="529" frameHeight="738"/>
+	<SubTexture name="DimonEledSCREAM0008" x="3452" y="1391" width="510" height="738" frameX="-5" frameY="0" frameWidth="529" frameHeight="738"/>
+	<SubTexture name="DimonEledSCREAM0009" x="10" y="2139" width="514" height="721" frameX="-7" frameY="-17" frameWidth="529" frameHeight="738"/>
+	<SubTexture name="DimonEledSCREAM0010" x="534" y="2139" width="510" height="728" frameX="0" frameY="-10" frameWidth="529" frameHeight="738"/>
+	<SubTexture name="DimonEledSCREAM0011" x="1054" y="2139" width="515" height="731" frameX="-14" frameY="-7" frameWidth="529" frameHeight="738"/>
+	<SubTexture name="DimonEledSCREAM0012" x="3452" y="1391" width="510" height="738" frameX="-5" frameY="0" frameWidth="529" frameHeight="738"/>
+	<SubTexture name="DimonEledSCREAM0013" x="10" y="2139" width="514" height="721" frameX="-7" frameY="-17" frameWidth="529" frameHeight="738"/>
+	<SubTexture name="DimonEledSCREAM0014" x="534" y="2139" width="510" height="728" frameX="0" frameY="-10" frameWidth="529" frameHeight="738"/>
+	<SubTexture name="DimonEledSCREAM0015" x="1054" y="2139" width="515" height="731" frameX="-14" frameY="-7" frameWidth="529" frameHeight="738"/>
+	<SubTexture name="DimonEledUp0000" x="1579" y="2139" width="575" height="711" frameX="0" frameY="-1" frameWidth="575" frameHeight="712"/>
+	<SubTexture name="DimonEledUp0001" x="1579" y="2139" width="575" height="711" frameX="0" frameY="-1" frameWidth="575" frameHeight="712"/>
+	<SubTexture name="DimonEledUp0002" x="2164" y="2139" width="569" height="712" frameX="-3" frameY="0" frameWidth="575" frameHeight="712"/>
+	<SubTexture name="DimonEledUp0003" x="2164" y="2139" width="569" height="712" frameX="-3" frameY="0" frameWidth="575" frameHeight="712"/>
+	<SubTexture name="DimonEledUp0004" x="2164" y="2139" width="569" height="712" frameX="-3" frameY="0" frameWidth="575" frameHeight="712"/>
+	<SubTexture name="DimonEledUp0005" x="2164" y="2139" width="569" height="712" frameX="-3" frameY="0" frameWidth="575" frameHeight="712"/>
+	<SubTexture name="DimonEledUp0006" x="2164" y="2139" width="569" height="712" frameX="-3" frameY="0" frameWidth="575" frameHeight="712"/>
+	<SubTexture name="DimonEledUp0007" x="2164" y="2139" width="569" height="712" frameX="-3" frameY="0" frameWidth="575" frameHeight="712"/>
+	<SubTexture name="DimonEledUp0008" x="2164" y="2139" width="569" height="712" frameX="-3" frameY="0" frameWidth="575" frameHeight="712"/>
+	<SubTexture name="DimonEledUp0009" x="2164" y="2139" width="569" height="712" frameX="-3" frameY="0" frameWidth="575" frameHeight="712"/>
+	<SubTexture name="DimonEledUp0010" x="2164" y="2139" width="569" height="712" frameX="-3" frameY="0" frameWidth="575" frameHeight="712"/>
+	<SubTexture name="DimonEledUp0011" x="2164" y="2139" width="569" height="712" frameX="-3" frameY="0" frameWidth="575" frameHeight="712"/>
+	<SubTexture name="DimonEledUp0012" x="2164" y="2139" width="569" height="712" frameX="-3" frameY="0" frameWidth="575" frameHeight="712"/>
+	<SubTexture name="DimonEledUp0013" x="2164" y="2139" width="569" height="712" frameX="-3" frameY="0" frameWidth="575" frameHeight="712"/>
+	<SubTexture name="DimonEledUp0014" x="2164" y="2139" width="569" height="712" frameX="-3" frameY="0" frameWidth="575" frameHeight="712"/>
+</TextureAtlas>

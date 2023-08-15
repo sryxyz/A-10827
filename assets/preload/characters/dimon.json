@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-40
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "DimonIdle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				48,
+				-38
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "AltDimonIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				321,
+				52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "stopthis!",
+			"indices": [],
+			"name": "STOPTHIS!!0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-36
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "DimonUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-37
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "DimonRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				118,
+				-37
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "DimonLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-47
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DimonDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-39
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "AltDimonRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				-41
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "AltDimonLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				-30
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "AltDimonUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				-42
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "AltDimonDown",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dimon_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dimon",
+	"flip_x": false,
+	"healthbar_colors": [
+		81,
+		81,
+		101
+	],
+	"camera_position": [
+		20,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

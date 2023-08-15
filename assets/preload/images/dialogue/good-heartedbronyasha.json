@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-30,
+		30
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "good-heartedbronyashaloop",
+			"idle_offsets": [
+				-1,
+				2
+			],
+			"idle_name": "good-heartedbronyasha0",
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				10
+			]
+		}
+	],
+	"image": "Good-HeartedBronyasha_Dialogue"
+}

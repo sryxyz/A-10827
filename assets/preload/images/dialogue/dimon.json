@@ -1,0 +1,115 @@
+{
+	"position": [
+		80,
+		10
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "Dimon_dialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				-10,
+				41
+			],
+			"anim": "angry",
+			"idle_offsets": [
+				-10,
+				39
+			],
+			"loop_name": "DimonAngryLoop",
+			"idle_name": "DimonAngry0"
+		},
+		{
+			"loop_offsets": [
+				-23,
+				37
+			],
+			"anim": "cry",
+			"idle_offsets": [
+				-30,
+				36
+			],
+			"loop_name": "DimonCryLoop",
+			"idle_name": "DimonCry0"
+		},
+		{
+			"loop_offsets": [
+				38,
+				38
+			],
+			"anim": "scary",
+			"idle_offsets": [
+				30,
+				38
+			],
+			"loop_name": "DimonScaryLoop",
+			"idle_name": "DimonScary0"
+		},
+		{
+			"loop_offsets": [
+				55,
+				38
+			],
+			"anim": "what",
+			"idle_offsets": [
+				54,
+				36
+			],
+			"loop_name": "DimonWhatLoop",
+			"idle_name": "DimonWhat0"
+		},
+		{
+			"loop_offsets": [
+				-30,
+				37
+			],
+			"anim": "normal",
+			"idle_offsets": [
+				-30,
+				36
+			],
+			"loop_name": "DimonNormalLoop",
+			"idle_name": "DimonNormal0"
+		},
+		{
+			"loop_name": "DimonCryAngryLoop",
+			"idle_offsets": [
+				-10,
+				39
+			],
+			"idle_name": "DimonCryAngry0",
+			"anim": "cryangry",
+			"loop_offsets": [
+				-10,
+				40
+			]
+		},
+		{
+			"loop_name": "DimonSadLoop",
+			"idle_offsets": [
+				-30,
+				36
+			],
+			"idle_name": "DimonSad0",
+			"anim": "sad",
+			"loop_offsets": [
+				-23,
+				37
+			]
+		},
+		{
+			"loop_name": "DimonHappyLoop",
+			"idle_offsets": [
+				-30,
+				36
+			],
+			"idle_name": "DimonHappy0",
+			"anim": "happy",
+			"loop_offsets": [
+				-23,
+				37
+			]
+		}
+	]
+}

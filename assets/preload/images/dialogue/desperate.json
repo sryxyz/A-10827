@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		84,
+		43
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"idle_offsets": [
+				-30,
+				36
+			],
+			"anim": "cry",
+			"loop_offsets": [
+				-23,
+				37
+			],
+			"idle_name": "DesperateCry0",
+			"loop_name": "DesperateCryLoop"
+		},
+		{
+			"loop_offsets": [
+				-23,
+				38
+			],
+			"anim": "sad",
+			"idle_offsets": [
+				-30,
+				36
+			],
+			"loop_name": "DesperateSadLoop",
+			"idle_name": "DesperateSad0"
+		},
+		{
+			"loop_offsets": [
+				-23,
+				37
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				-30,
+				36
+			],
+			"loop_name": "DesperateHappyLoop",
+			"idle_name": "DesperateHappy0"
+		}
+	],
+	"image": "Desperate_dialogue"
+}

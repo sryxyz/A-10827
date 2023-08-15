@@ -1,0 +1,15 @@
+{
+	"storyName": "Kara",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "Frustration",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		["Dilemma","DriveThru",[140,135,120]],
+		["Filmetup","kara",[60,133,195]]
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "Bonus"
+}

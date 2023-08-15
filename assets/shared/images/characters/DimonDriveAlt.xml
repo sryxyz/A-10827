@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DimonDriveAlt.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DimonDriveDown0000" x="10" y="10" width="519" height="674" frameX="-3" frameY="-3" frameWidth="522" frameHeight="677"/>
+	<SubTexture name="DimonDriveDown0001" x="10" y="10" width="519" height="674" frameX="-3" frameY="-3" frameWidth="522" frameHeight="677"/>
+	<SubTexture name="DimonDriveDown0002" x="539" y="10" width="515" height="676" frameX="0" frameY="0" frameWidth="522" frameHeight="677"/>
+	<SubTexture name="DimonDriveDown0003" x="539" y="10" width="515" height="676" frameX="0" frameY="0" frameWidth="522" frameHeight="677"/>
+	<SubTexture name="DimonDriveDown0004" x="539" y="10" width="515" height="676" frameX="0" frameY="0" frameWidth="522" frameHeight="677"/>
+	<SubTexture name="DimonDriveDown0005" x="539" y="10" width="515" height="676" frameX="0" frameY="0" frameWidth="522" frameHeight="677"/>
+	<SubTexture name="DimonDriveDown0006" x="539" y="10" width="515" height="676" frameX="0" frameY="0" frameWidth="522" frameHeight="677"/>
+	<SubTexture name="DimonDriveDown0007" x="539" y="10" width="515" height="676" frameX="0" frameY="0" frameWidth="522" frameHeight="677"/>
+	<SubTexture name="DimonDriveDown0008" x="539" y="10" width="515" height="676" frameX="0" frameY="0" frameWidth="522" frameHeight="677"/>
+	<SubTexture name="DimonDriveDown0009" x="539" y="10" width="515" height="676" frameX="0" frameY="0" frameWidth="522" frameHeight="677"/>
+	<SubTexture name="DimonDriveDown0010" x="539" y="10" width="515" height="676" frameX="0" frameY="0" frameWidth="522" frameHeight="677"/>
+	<SubTexture name="DimonDriveDown0011" x="539" y="10" width="515" height="676" frameX="0" frameY="0" frameWidth="522" frameHeight="677"/>
+	<SubTexture name="DimonDriveDown0012" x="539" y="10" width="515" height="676" frameX="0" frameY="0" frameWidth="522" frameHeight="677"/>
+	<SubTexture name="DimonDriveDown0013" x="539" y="10" width="515" height="676" frameX="0" frameY="0" frameWidth="522" frameHeight="677"/>
+	<SubTexture name="DimonDriveDown0014" x="539" y="10" width="515" height="676" frameX="0" frameY="0" frameWidth="522" frameHeight="677"/>
+	<SubTexture name="DimonDriveIdle0000" x="1064" y="10" width="491" height="686" frameX="-11" frameY="-13" frameWidth="507" frameHeight="699"/>
+	<SubTexture name="DimonDriveIdle0001" x="1064" y="10" width="491" height="686" frameX="-11" frameY="-13" frameWidth="507" frameHeight="699"/>
+	<SubTexture name="DimonDriveIdle0002" x="1565" y="10" width="496" height="689" frameX="-7" frameY="-10" frameWidth="507" frameHeight="699"/>
+	<SubTexture name="DimonDriveIdle0003" x="1565" y="10" width="496" height="689" frameX="-7" frameY="-10" frameWidth="507" frameHeight="699"/>
+	<SubTexture name="DimonDriveIdle0004" x="2071" y="10" width="500" height="696" frameX="-4" frameY="-3" frameWidth="507" frameHeight="699"/>
+	<SubTexture name="DimonDriveIdle0005" x="2071" y="10" width="500" height="696" frameX="-4" frameY="-3" frameWidth="507" frameHeight="699"/>
+	<SubTexture name="DimonDriveIdle0006" x="2581" y="10" width="505" height="699" frameX="-1" frameY="0" frameWidth="507" frameHeight="699"/>
+	<SubTexture name="DimonDriveIdle0007" x="2581" y="10" width="505" height="699" frameX="-1" frameY="0" frameWidth="507" frameHeight="699"/>
+	<SubTexture name="DimonDriveIdle0008" x="3096" y="10" width="507" height="698" frameX="0" frameY="-1" frameWidth="507" frameHeight="699"/>
+	<SubTexture name="DimonDriveIdle0009" x="3096" y="10" width="507" height="698" frameX="0" frameY="-1" frameWidth="507" frameHeight="699"/>
+	<SubTexture name="DimonDriveIdle0010" x="3096" y="10" width="507" height="698" frameX="0" frameY="-1" frameWidth="507" frameHeight="699"/>
+	<SubTexture name="DimonDriveIdle0011" x="3096" y="10" width="507" height="698" frameX="0" frameY="-1" frameWidth="507" frameHeight="699"/>
+	<SubTexture name="DimonDriveIdle0012" x="3096" y="10" width="507" height="698" frameX="0" frameY="-1" frameWidth="507" frameHeight="699"/>
+	<SubTexture name="DimonDriveIdle0013" x="3096" y="10" width="507" height="698" frameX="0" frameY="-1" frameWidth="507" frameHeight="699"/>
+	<SubTexture name="DimonDriveIdle0014" x="3096" y="10" width="507" height="698" frameX="0" frameY="-1" frameWidth="507" frameHeight="699"/>
+	<SubTexture name="DimonDriveLeft0000" x="10" y="719" width="477" height="690" frameX="0" frameY="-8" frameWidth="483" frameHeight="698"/>
+	<SubTexture name="DimonDriveLeft0001" x="10" y="719" width="477" height="690" frameX="0" frameY="-8" frameWidth="483" frameHeight="698"/>
+	<SubTexture name="DimonDriveLeft0002" x="497" y="719" width="478" height="698" frameX="-5" frameY="0" frameWidth="483" frameHeight="698"/>
+	<SubTexture name="DimonDriveLeft0003" x="497" y="719" width="478" height="698" frameX="-5" frameY="0" frameWidth="483" frameHeight="698"/>
+	<SubTexture name="DimonDriveLeft0004" x="497" y="719" width="478" height="698" frameX="-5" frameY="0" frameWidth="483" frameHeight="698"/>
+	<SubTexture name="DimonDriveLeft0005" x="497" y="719" width="478" height="698" frameX="-5" frameY="0" frameWidth="483" frameHeight="698"/>
+	<SubTexture name="DimonDriveLeft0006" x="497" y="719" width="478" height="698" frameX="-5" frameY="0" frameWidth="483" frameHeight="698"/>
+	<SubTexture name="DimonDriveLeft0007" x="497" y="719" width="478" height="698" frameX="-5" frameY="0" frameWidth="483" frameHeight="698"/>
+	<SubTexture name="DimonDriveLeft0008" x="497" y="719" width="478" height="698" frameX="-5" frameY="0" frameWidth="483" frameHeight="698"/>
+	<SubTexture name="DimonDriveLeft0009" x="497" y="719" width="478" height="698" frameX="-5" frameY="0" frameWidth="483" frameHeight="698"/>
+	<SubTexture name="DimonDriveLeft0010" x="497" y="719" width="478" height="698" frameX="-5" frameY="0" frameWidth="483" frameHeight="698"/>
+	<SubTexture name="DimonDriveLeft0011" x="497" y="719" width="478" height="698" frameX="-5" frameY="0" frameWidth="483" frameHeight="698"/>
+	<SubTexture name="DimonDriveLeft0012" x="497" y="719" width="478" height="698" frameX="-5" frameY="0" frameWidth="483" frameHeight="698"/>
+	<SubTexture name="DimonDriveLeft0013" x="497" y="719" width="478" height="698" frameX="-5" frameY="0" frameWidth="483" frameHeight="698"/>
+	<SubTexture name="DimonDriveLeft0014" x="497" y="719" width="478" height="698" frameX="-5" frameY="0" frameWidth="483" frameHeight="698"/>
+	<SubTexture name="DimonDriveRight0000" x="985" y="719" width="519" height="695" frameX="-2" frameY="-3" frameWidth="521" frameHeight="698"/>
+	<SubTexture name="DimonDriveRight0001" x="985" y="719" width="519" height="695" frameX="-2" frameY="-3" frameWidth="521" frameHeight="698"/>
+	<SubTexture name="DimonDriveRight0002" x="1514" y="719" width="519" height="698" frameX="0" frameY="0" frameWidth="521" frameHeight="698"/>
+	<SubTexture name="DimonDriveRight0003" x="1514" y="719" width="519" height="698" frameX="0" frameY="0" frameWidth="521" frameHeight="698"/>
+	<SubTexture name="DimonDriveRight0004" x="1514" y="719" width="519" height="698" frameX="0" frameY="0" frameWidth="521" frameHeight="698"/>
+	<SubTexture name="DimonDriveRight0005" x="1514" y="719" width="519" height="698" frameX="0" frameY="0" frameWidth="521" frameHeight="698"/>
+	<SubTexture name="DimonDriveRight0006" x="1514" y="719" width="519" height="698" frameX="0" frameY="0" frameWidth="521" frameHeight="698"/>
+	<SubTexture name="DimonDriveRight0007" x="1514" y="719" width="519" height="698" frameX="0" frameY="0" frameWidth="521" frameHeight="698"/>
+	<SubTexture name="DimonDriveRight0008" x="1514" y="719" width="519" height="698" frameX="0" frameY="0" frameWidth="521" frameHeight="698"/>
+	<SubTexture name="DimonDriveRight0009" x="1514" y="719" width="519" height="698" frameX="0" frameY="0" frameWidth="521" frameHeight="698"/>
+	<SubTexture name="DimonDriveRight0010" x="1514" y="719" width="519" height="698" frameX="0" frameY="0" frameWidth="521" frameHeight="698"/>
+	<SubTexture name="DimonDriveRight0011" x="1514" y="719" width="519" height="698" frameX="0" frameY="0" frameWidth="521" frameHeight="698"/>
+	<SubTexture name="DimonDriveRight0012" x="1514" y="719" width="519" height="698" frameX="0" frameY="0" frameWidth="521" frameHeight="698"/>
+	<SubTexture name="DimonDriveRight0013" x="1514" y="719" width="519" height="698" frameX="0" frameY="0" frameWidth="521" frameHeight="698"/>
+	<SubTexture name="DimonDriveRight0014" x="1514" y="719" width="519" height="698" frameX="0" frameY="0" frameWidth="521" frameHeight="698"/>
+	<SubTexture name="DimonDriveTurn0000" x="2043" y="719" width="496" height="690" frameX="-7" frameY="-6" frameWidth="507" frameHeight="696"/>
+	<SubTexture name="DimonDriveTurn0001" x="2043" y="719" width="496" height="690" frameX="-7" frameY="-6" frameWidth="507" frameHeight="696"/>
+	<SubTexture name="DimonDriveTurn0002" x="2549" y="719" width="500" height="696" frameX="-4" frameY="0" frameWidth="507" frameHeight="696"/>
+	<SubTexture name="DimonDriveTurn0003" x="2549" y="719" width="500" height="696" frameX="-4" frameY="0" frameWidth="507" frameHeight="696"/>
+	<SubTexture name="DimonDriveTurn0004" x="3059" y="719" width="505" height="690" frameX="-1" frameY="-6" frameWidth="507" frameHeight="696"/>
+	<SubTexture name="DimonDriveTurn0005" x="3059" y="719" width="505" height="690" frameX="-1" frameY="-6" frameWidth="507" frameHeight="696"/>
+	<SubTexture name="DimonDriveTurn0006" x="3574" y="719" width="507" height="690" frameX="0" frameY="-6" frameWidth="507" frameHeight="696"/>
+	<SubTexture name="DimonDriveTurn0007" x="3574" y="719" width="507" height="690" frameX="0" frameY="-6" frameWidth="507" frameHeight="696"/>
+	<SubTexture name="DimonDriveTurn0008" x="3574" y="719" width="507" height="690" frameX="0" frameY="-6" frameWidth="507" frameHeight="696"/>
+	<SubTexture name="DimonDriveTurn0009" x="3574" y="719" width="507" height="690" frameX="0" frameY="-6" frameWidth="507" frameHeight="696"/>
+	<SubTexture name="DimonDriveTurn0010" x="3574" y="719" width="507" height="690" frameX="0" frameY="-6" frameWidth="507" frameHeight="696"/>
+	<SubTexture name="DimonDriveTurn0011" x="3574" y="719" width="507" height="690" frameX="0" frameY="-6" frameWidth="507" frameHeight="696"/>
+	<SubTexture name="DimonDriveTurn0012" x="3574" y="719" width="507" height="690" frameX="0" frameY="-6" frameWidth="507" frameHeight="696"/>
+	<SubTexture name="DimonDriveUp0000" x="10" y="1427" width="468" height="710" frameX="-4" frameY="-1" frameWidth="474" frameHeight="711"/>
+	<SubTexture name="DimonDriveUp0001" x="10" y="1427" width="468" height="710" frameX="-4" frameY="-1" frameWidth="474" frameHeight="711"/>
+	<SubTexture name="DimonDriveUp0002" x="488" y="1427" width="474" height="711"/>
+	<SubTexture name="DimonDriveUp0003" x="488" y="1427" width="474" height="711"/>
+	<SubTexture name="DimonDriveUp0004" x="488" y="1427" width="474" height="711"/>
+	<SubTexture name="DimonDriveUp0005" x="488" y="1427" width="474" height="711"/>
+	<SubTexture name="DimonDriveUp0006" x="488" y="1427" width="474" height="711"/>
+	<SubTexture name="DimonDriveUp0007" x="488" y="1427" width="474" height="711"/>
+	<SubTexture name="DimonDriveUp0008" x="488" y="1427" width="474" height="711"/>
+	<SubTexture name="DimonDriveUp0009" x="488" y="1427" width="474" height="711"/>
+	<SubTexture name="DimonDriveUp0010" x="488" y="1427" width="474" height="711"/>
+	<SubTexture name="DimonDriveUp0011" x="488" y="1427" width="474" height="711"/>
+	<SubTexture name="DimonDriveUp0012" x="488" y="1427" width="474" height="711"/>
+	<SubTexture name="DimonDriveUp0013" x="488" y="1427" width="474" height="711"/>
+	<SubTexture name="DimonDriveUp0014" x="488" y="1427" width="474" height="711"/>
+</TextureAtlas>

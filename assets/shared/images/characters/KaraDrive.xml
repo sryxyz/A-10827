@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="KaraDrive.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="KaraDriveDown0000" x="10" y="10" width="582" height="429" frameX="0" frameY="-4" frameWidth="582" frameHeight="433"/>
+	<SubTexture name="KaraDriveDown0001" x="10" y="10" width="582" height="429" frameX="0" frameY="-4" frameWidth="582" frameHeight="433"/>
+	<SubTexture name="KaraDriveDown0002" x="602" y="10" width="570" height="433" frameX="-2" frameY="0" frameWidth="582" frameHeight="433"/>
+	<SubTexture name="KaraDriveDown0003" x="602" y="10" width="570" height="433" frameX="-2" frameY="0" frameWidth="582" frameHeight="433"/>
+	<SubTexture name="KaraDriveDown0004" x="602" y="10" width="570" height="433" frameX="-2" frameY="0" frameWidth="582" frameHeight="433"/>
+	<SubTexture name="KaraDriveDown0005" x="602" y="10" width="570" height="433" frameX="-2" frameY="0" frameWidth="582" frameHeight="433"/>
+	<SubTexture name="KaraDriveDown0006" x="602" y="10" width="570" height="433" frameX="-2" frameY="0" frameWidth="582" frameHeight="433"/>
+	<SubTexture name="KaraDriveDown0007" x="602" y="10" width="570" height="433" frameX="-2" frameY="0" frameWidth="582" frameHeight="433"/>
+	<SubTexture name="KaraDriveDown0008" x="602" y="10" width="570" height="433" frameX="-2" frameY="0" frameWidth="582" frameHeight="433"/>
+	<SubTexture name="KaraDriveDown0009" x="602" y="10" width="570" height="433" frameX="-2" frameY="0" frameWidth="582" frameHeight="433"/>
+	<SubTexture name="KaraDriveDown0010" x="602" y="10" width="570" height="433" frameX="-2" frameY="0" frameWidth="582" frameHeight="433"/>
+	<SubTexture name="KaraDriveDown0011" x="602" y="10" width="570" height="433" frameX="-2" frameY="0" frameWidth="582" frameHeight="433"/>
+	<SubTexture name="KaraDriveDown0012" x="602" y="10" width="570" height="433" frameX="-2" frameY="0" frameWidth="582" frameHeight="433"/>
+	<SubTexture name="KaraDriveDown0013" x="602" y="10" width="570" height="433" frameX="-2" frameY="0" frameWidth="582" frameHeight="433"/>
+	<SubTexture name="KaraDriveDown0014" x="602" y="10" width="570" height="433" frameX="-2" frameY="0" frameWidth="582" frameHeight="433"/>
+	<SubTexture name="KaraDriveIdle0000" x="1182" y="10" width="752" height="519" frameX="0" frameY="-6" frameWidth="752" frameHeight="530"/>
+	<SubTexture name="KaraDriveIdle0001" x="1182" y="10" width="752" height="519" frameX="0" frameY="-6" frameWidth="752" frameHeight="530"/>
+	<SubTexture name="KaraDriveIdle0002" x="1944" y="10" width="746" height="522" frameX="0" frameY="-4" frameWidth="752" frameHeight="530"/>
+	<SubTexture name="KaraDriveIdle0003" x="1944" y="10" width="746" height="522" frameX="0" frameY="-4" frameWidth="752" frameHeight="530"/>
+	<SubTexture name="KaraDriveIdle0004" x="2700" y="10" width="734" height="525" frameX="-1" frameY="-2" frameWidth="752" frameHeight="530"/>
+	<SubTexture name="KaraDriveIdle0005" x="2700" y="10" width="734" height="525" frameX="-1" frameY="-2" frameWidth="752" frameHeight="530"/>
+	<SubTexture name="KaraDriveIdle0006" x="10" y="545" width="733" height="528" frameX="-1" frameY="0" frameWidth="752" frameHeight="530"/>
+	<SubTexture name="KaraDriveIdle0007" x="10" y="545" width="733" height="528" frameX="-1" frameY="0" frameWidth="752" frameHeight="530"/>
+	<SubTexture name="KaraDriveIdle0008" x="753" y="545" width="732" height="530" frameX="-1" frameY="0" frameWidth="752" frameHeight="530"/>
+	<SubTexture name="KaraDriveIdle0009" x="753" y="545" width="732" height="530" frameX="-1" frameY="0" frameWidth="752" frameHeight="530"/>
+	<SubTexture name="KaraDriveIdle0010" x="753" y="545" width="732" height="530" frameX="-1" frameY="0" frameWidth="752" frameHeight="530"/>
+	<SubTexture name="KaraDriveIdle0011" x="753" y="545" width="732" height="530" frameX="-1" frameY="0" frameWidth="752" frameHeight="530"/>
+	<SubTexture name="KaraDriveIdle0012" x="753" y="545" width="732" height="530" frameX="-1" frameY="0" frameWidth="752" frameHeight="530"/>
+	<SubTexture name="KaraDriveIdle0013" x="753" y="545" width="732" height="530" frameX="-1" frameY="0" frameWidth="752" frameHeight="530"/>
+	<SubTexture name="KaraDriveIdle0014" x="753" y="545" width="732" height="530" frameX="-1" frameY="0" frameWidth="752" frameHeight="530"/>
+	<SubTexture name="KaraDriveLeft0000" x="1495" y="545" width="646" height="548" frameX="-14" frameY="0" frameWidth="662" frameHeight="548"/>
+	<SubTexture name="KaraDriveLeft0001" x="1495" y="545" width="646" height="548" frameX="-14" frameY="0" frameWidth="662" frameHeight="548"/>
+	<SubTexture name="KaraDriveLeft0002" x="2151" y="545" width="662" height="548"/>
+	<SubTexture name="KaraDriveLeft0003" x="2151" y="545" width="662" height="548"/>
+	<SubTexture name="KaraDriveLeft0004" x="2151" y="545" width="662" height="548"/>
+	<SubTexture name="KaraDriveLeft0005" x="2151" y="545" width="662" height="548"/>
+	<SubTexture name="KaraDriveLeft0006" x="2151" y="545" width="662" height="548"/>
+	<SubTexture name="KaraDriveLeft0007" x="2151" y="545" width="662" height="548"/>
+	<SubTexture name="KaraDriveLeft0008" x="2151" y="545" width="662" height="548"/>
+	<SubTexture name="KaraDriveLeft0009" x="2151" y="545" width="662" height="548"/>
+	<SubTexture name="KaraDriveLeft0010" x="2151" y="545" width="662" height="548"/>
+	<SubTexture name="KaraDriveLeft0011" x="2151" y="545" width="662" height="548"/>
+	<SubTexture name="KaraDriveLeft0012" x="2151" y="545" width="662" height="548"/>
+	<SubTexture name="KaraDriveLeft0013" x="2151" y="545" width="662" height="548"/>
+	<SubTexture name="KaraDriveLeft0014" x="2151" y="545" width="662" height="548"/>
+	<SubTexture name="KaraDriveRight0000" x="2823" y="545" width="913" height="553" frameX="-3" frameY="0" frameWidth="916" frameHeight="553"/>
+	<SubTexture name="KaraDriveRight0001" x="2823" y="545" width="913" height="553" frameX="-3" frameY="0" frameWidth="916" frameHeight="553"/>
+	<SubTexture name="KaraDriveRight0002" x="10" y="1108" width="886" height="544" frameX="0" frameY="0" frameWidth="916" frameHeight="553"/>
+	<SubTexture name="KaraDriveRight0003" x="10" y="1108" width="886" height="544" frameX="0" frameY="0" frameWidth="916" frameHeight="553"/>
+	<SubTexture name="KaraDriveRight0004" x="10" y="1108" width="886" height="544" frameX="0" frameY="0" frameWidth="916" frameHeight="553"/>
+	<SubTexture name="KaraDriveRight0005" x="10" y="1108" width="886" height="544" frameX="0" frameY="0" frameWidth="916" frameHeight="553"/>
+	<SubTexture name="KaraDriveRight0006" x="10" y="1108" width="886" height="544" frameX="0" frameY="0" frameWidth="916" frameHeight="553"/>
+	<SubTexture name="KaraDriveRight0007" x="10" y="1108" width="886" height="544" frameX="0" frameY="0" frameWidth="916" frameHeight="553"/>
+	<SubTexture name="KaraDriveRight0008" x="10" y="1108" width="886" height="544" frameX="0" frameY="0" frameWidth="916" frameHeight="553"/>
+	<SubTexture name="KaraDriveRight0009" x="10" y="1108" width="886" height="544" frameX="0" frameY="0" frameWidth="916" frameHeight="553"/>
+	<SubTexture name="KaraDriveRight0010" x="10" y="1108" width="886" height="544" frameX="0" frameY="0" frameWidth="916" frameHeight="553"/>
+	<SubTexture name="KaraDriveRight0011" x="10" y="1108" width="886" height="544" frameX="0" frameY="0" frameWidth="916" frameHeight="553"/>
+	<SubTexture name="KaraDriveRight0012" x="10" y="1108" width="886" height="544" frameX="0" frameY="0" frameWidth="916" frameHeight="553"/>
+	<SubTexture name="KaraDriveRight0013" x="10" y="1108" width="886" height="544" frameX="0" frameY="0" frameWidth="916" frameHeight="553"/>
+	<SubTexture name="KaraDriveRight0014" x="10" y="1108" width="886" height="544" frameX="0" frameY="0" frameWidth="916" frameHeight="553"/>
+	<SubTexture name="KaraDriveUp0000" x="906" y="1108" width="641" height="596" frameX="-9" frameY="-4" frameWidth="662" frameHeight="600"/>
+	<SubTexture name="KaraDriveUp0001" x="906" y="1108" width="641" height="596" frameX="-9" frameY="-4" frameWidth="662" frameHeight="600"/>
+	<SubTexture name="KaraDriveUp0002" x="1557" y="1108" width="662" height="583" frameX="0" frameY="0" frameWidth="662" frameHeight="600"/>
+	<SubTexture name="KaraDriveUp0003" x="1557" y="1108" width="662" height="583" frameX="0" frameY="0" frameWidth="662" frameHeight="600"/>
+	<SubTexture name="KaraDriveUp0004" x="1557" y="1108" width="662" height="583" frameX="0" frameY="0" frameWidth="662" frameHeight="600"/>
+	<SubTexture name="KaraDriveUp0005" x="1557" y="1108" width="662" height="583" frameX="0" frameY="0" frameWidth="662" frameHeight="600"/>
+	<SubTexture name="KaraDriveUp0006" x="1557" y="1108" width="662" height="583" frameX="0" frameY="0" frameWidth="662" frameHeight="600"/>
+	<SubTexture name="KaraDriveUp0007" x="1557" y="1108" width="662" height="583" frameX="0" frameY="0" frameWidth="662" frameHeight="600"/>
+	<SubTexture name="KaraDriveUp0008" x="1557" y="1108" width="662" height="583" frameX="0" frameY="0" frameWidth="662" frameHeight="600"/>
+	<SubTexture name="KaraDriveUp0009" x="1557" y="1108" width="662" height="583" frameX="0" frameY="0" frameWidth="662" frameHeight="600"/>
+	<SubTexture name="KaraDriveUp0010" x="1557" y="1108" width="662" height="583" frameX="0" frameY="0" frameWidth="662" frameHeight="600"/>
+	<SubTexture name="KaraDriveUp0011" x="1557" y="1108" width="662" height="583" frameX="0" frameY="0" frameWidth="662" frameHeight="600"/>
+	<SubTexture name="KaraDriveUp0012" x="1557" y="1108" width="662" height="583" frameX="0" frameY="0" frameWidth="662" frameHeight="600"/>
+	<SubTexture name="KaraDriveUp0013" x="1557" y="1108" width="662" height="583" frameX="0" frameY="0" frameWidth="662" frameHeight="600"/>
+	<SubTexture name="KaraDriveUp0014" x="1557" y="1108" width="662" height="583" frameX="0" frameY="0" frameWidth="662" frameHeight="600"/>
+	<SubTexture name="KaraDriveUp0015" x="1557" y="1108" width="662" height="583" frameX="0" frameY="0" frameWidth="662" frameHeight="600"/>
+</TextureAtlas>

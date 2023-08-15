@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Good-HeartedBronyasha_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="good-heartedbronyasha0000" x="10" y="10" width="275" height="495"/>
+	<SubTexture name="good-heartedbronyashaloop0000" x="295" y="10" width="275" height="504" frameX="0" frameY="0" frameWidth="278" frameHeight="504"/>
+	<SubTexture name="good-heartedbronyashaloop0001" x="295" y="10" width="275" height="504" frameX="0" frameY="0" frameWidth="278" frameHeight="504"/>
+	<SubTexture name="good-heartedbronyashaloop0002" x="580" y="10" width="276" height="500" frameX="-1" frameY="-4" frameWidth="278" frameHeight="504"/>
+	<SubTexture name="good-heartedbronyashaloop0003" x="580" y="10" width="276" height="500" frameX="-1" frameY="-4" frameWidth="278" frameHeight="504"/>
+	<SubTexture name="good-heartedbronyashaloop0004" x="866" y="10" width="276" height="495" frameX="-2" frameY="-9" frameWidth="278" frameHeight="504"/>
+	<SubTexture name="good-heartedbronyashaloop0005" x="866" y="10" width="276" height="495" frameX="-2" frameY="-9" frameWidth="278" frameHeight="504"/>
+</TextureAtlas>

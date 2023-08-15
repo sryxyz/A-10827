@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Kara_Dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="KaraNervous0000" x="10" y="10" width="242" height="304"/>
+	<SubTexture name="KaraNervousLoop0000" x="262" y="10" width="242" height="304" frameX="0" frameY="-1" frameWidth="248" frameHeight="305"/>
+	<SubTexture name="KaraNervousLoop0001" x="262" y="10" width="242" height="304" frameX="0" frameY="-1" frameWidth="248" frameHeight="305"/>
+	<SubTexture name="KaraNervousLoop0002" x="514" y="10" width="243" height="303" frameX="0" frameY="-2" frameWidth="248" frameHeight="305"/>
+	<SubTexture name="KaraNervousLoop0003" x="514" y="10" width="243" height="303" frameX="0" frameY="-2" frameWidth="248" frameHeight="305"/>
+	<SubTexture name="KaraNervousLoop0004" x="10" y="324" width="248" height="305"/>
+	<SubTexture name="KaraNervousLoop0005" x="10" y="324" width="248" height="305"/>
+	<SubTexture name="KaraWhat0000" x="268" y="324" width="242" height="303"/>
+	<SubTexture name="KaraWhatLoop0000" x="520" y="324" width="242" height="304" frameX="0" frameY="-1" frameWidth="251" frameHeight="305"/>
+	<SubTexture name="KaraWhatLoop0001" x="520" y="324" width="242" height="304" frameX="0" frameY="-1" frameWidth="251" frameHeight="305"/>
+	<SubTexture name="KaraWhatLoop0002" x="10" y="639" width="244" height="303" frameX="0" frameY="-2" frameWidth="251" frameHeight="305"/>
+	<SubTexture name="KaraWhatLoop0003" x="10" y="639" width="244" height="303" frameX="0" frameY="-2" frameWidth="251" frameHeight="305"/>
+	<SubTexture name="KaraWhatLoop0004" x="264" y="639" width="251" height="305"/>
+	<SubTexture name="KaraWhatLoop0005" x="264" y="639" width="251" height="305"/>
+</TextureAtlas>
